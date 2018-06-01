@@ -1,6 +1,8 @@
 @title['US Flag Trivia']
 
-# Lets get started
+# Yup. 
+---
+
 
 ![Logo](https://statesymbolsusa.org/sites/statesymbolsusa.org/files/styles/symbol_thumbnail__medium/public/primary-images/flagofarkansas-stateflag.jpg?itok=sgadgCn2)
 ---
